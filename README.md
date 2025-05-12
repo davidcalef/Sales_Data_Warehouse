@@ -46,7 +46,8 @@ CreateStarSchema.R – R script for creating the star schema and populating the 
 
 AnalyzeData.RiggleD.Rmd – R Notebook containing analytical queries, visualizations, and structured documentation.
 
-AnalyzeData.RiggleD.html (coming soon) – Rendered HTML version of the R Notebook for easy viewing hosted via GitHub Pages.
+(https://davidcalef.github.io/Sales_Data_Warehouse/)
+Rendered HTML version of the R Notebook for easy viewing hosted via GitHub Pages.
 
 ✅ How to View or Run
 
