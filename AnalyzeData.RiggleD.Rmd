@@ -22,8 +22,8 @@ library(rprojroot)
 
 # MySQL database connection details
 mysql_host <- "sql5.freemysqlhosting.net"
-mysql_dbname <- "sql5722857"
-mysql_user <- "sql5722857"
+mysql_dbname <- 
+mysql_user <-
 mysql_password <- 
 mysql_port <- 3306
 
