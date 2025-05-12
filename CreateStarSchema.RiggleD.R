@@ -12,7 +12,7 @@ library(RSQLite)
 mysql_host <- "sql5.freemysqlhosting.net"
 mysql_dbname <- "sql5722857"
 mysql_user <- "sql5722857"
-mysql_password <- "RciB69Grhi"
+mysql_password <- 
 mysql_port <- 3306
 
 # SQLite database connection details
